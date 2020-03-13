@@ -1,0 +1,8 @@
+data;
+param Bmin :=
+    1_volume      2271247.5205547898
+    2_sediment       727272.7272727272
+    3_nitrogen         4090.9090909091
+    4_phosphorous          454.5454545455
+;
+model;
